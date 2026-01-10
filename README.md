@@ -1,2 +1,2 @@
 # Homelab
-Purple-teaming homelab using Docker with Kali Linux, Metasploitable3, and Ubuntu
+Purple-Teaming Homelab using Docker with Kali Linux (Attacking Machine), Metasploitable3 (Target Machine), and Ubuntu (Logging and Analysis Machine)
