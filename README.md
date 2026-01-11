@@ -1,2 +1,2 @@
-# Homelab
-Purple-Teaming Homelab using Docker with 3 Containers all isolated in an internal network: Kali Linux (Attacking Machine), Metasploitable3 (Target Machine), and Ubuntu (Logging and Analysis Machine)
+# Docker setup for a homelab. Just getting some experience and practice using Docker. NOT CONDUCTING PEN TESTING AND LOGGING/ANALYSIS.
+5 Docker ontainers all isolated in an internal network: Kali Linux container, Metasploitable3 container, and 3 Wazuh containers.
